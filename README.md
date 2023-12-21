@@ -2,3 +2,9 @@
 
 xiru.gao@outlook.com
 
+todo list
+卡尔曼滤波
+数据结构
+lstm 预测股票
+kivy 开发安卓端应用
+
